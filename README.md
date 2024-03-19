@@ -1,10 +1,11 @@
 ### 📘 Student
-- High school diploma in computer science and telecommunication
+- High school diploma in information technologies and telecommunication
 - currently studying computer engineering in UNIMORE
 ### 💻 Software developer
 ## Languages known:
 - Python
 - C
+- C++
 - Bash
 - Java
 - Arduino
