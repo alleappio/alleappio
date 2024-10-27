@@ -1,6 +1,7 @@
 ### 📘 Student
 - High school diploma in information technologies and telecommunication
-- currently studying computer engineering in UNIMORE
+- Bachelor degree in computer engineering in UNIMORE
+- Currently attending a master course in computer science in UINMORE
 ### 💻 Software developer
 ## Languages known:
 - Python
